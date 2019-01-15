@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Productos">
+        <item>camara1</item>
+        <item>camara2</item>
+        <item>camara3</item>
+        <item>camara4</item>
+    </string-array>
+
+    <string-array name="Descripcion">
+        <item>Descripcion de la camara1</item>
+        <item>Descripcion de la camara2</item>
+        <item>Descripcion de la camara3</item>
+        <item>Descripcion de la camara4</item>
+    </string-array>
+
+    <string-array name="Precios">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CarSecurity</string>
+    <string name="pie">Guipuzkoa-Tel:943 66 66 66/e-mail: negros@gmail.com</string>
+    <string name="delegacion">Delegación Provincial de Madrid</string>
+    <string name="btnagenda">Agenda</string>
+    <string name="btnpedido">Pedidos</string>
+    <string name="btnpartners">Partners</string>
+    <string name="btninforme">Informes</string>
+    <string name="btnsalir">Salir</string>
+    <string name="proximascitas">Próximas Citas</string>
+    <string name="vacio" />
+    <string name="titulocita">Introduce el título de la cita</string>
+    <string name="notas">Añadir Notas</string>
+    <string name="guardar">Guardar</string>
+    <string name="atras">Atrás</string>
+    <string name="agenda">Agenda</string>
+    <string name="crearevento">Añadir Evento</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="alta">Dar de Alta</string>
+    <string name="consultar">Consultar Partners</string>
+    <string name="b_salir">Volver</string>
+    <string name="NombreProducto">Nombre</string>
+    <string name="DescripcionProducto">Descripcion</string>
+    <string name="PrecioProducto">10€</string>
+
+</resources>
